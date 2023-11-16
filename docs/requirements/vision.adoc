@@ -1,5 +1,5 @@
 = Vision: {project-name}
-Vorname Nachname <email@domain.org>; Vorname2 Nachname2 <email2@domain.org>; Vorname3 Nachname3 <email3@domain.org>
+Sten Mende sten.mende@stud.htw-dresden.de
 {localdatetime}
 include::../_includes/default-attributes.inc.adoc[]
 // Platzhalter für weitere Dokumenten-Attribute
@@ -12,7 +12,7 @@ Der Zweck dieses Dokuments ist es, die wesentlichen Bedarfe und Funktionalitäte
 Der Zweck dieses Dokuments ist es, die wesentlichen Anforderungen an das System aus Sicht und mit den Begriffen der künftigen Anwender zu beschreiben.
 
 === Gültigkeitsbereich (Scope)
-Dieses Visions-Dokument bezieht sich auf das System {project-system-name}, das von <Team> entwickelt wird. Das System wird es <Zielkunde/Auftraggeber> erlauben, <Hauptfunktionen> zu nutzen, um damit <Vorteile> zu erreichen / <Aufgabe> zu erleichtern / <Problem> zu lösen.
+Dieses Visions-Dokument bezieht sich auf das System {project-system-name}, das von Team S entwickelt wird. Das System wird es dem Barbetreiber erlauben, Online-Versandt zu nutzen, um damit eine größere Kundenzahl zu erreichen.
 
 === Definitionen, Akronyme und Abkürzungen
 //Verweis passend zum Belegabgabe-Template se1_belegabgabe_t00.adoc
@@ -25,6 +25,8 @@ Siehe <<#glossary, Glossar>>.
 == Positionierung
 
 === Fachliche Motivation
+Das Projekt zielt darauf aus, einen Online-Shop zu eröffnen, um 
+
 //Erläutern Sie kurz den Hintergrund, in dem das Projekt angesiedelt ist. Welches Problem soll gelöst werden, wie ist es entstanden? Welche Verbesserung wird angestrebt. Achten Sie darauf, eine fachliche (organisatorische, betriebswirtschaftliche) Perspektive einzunehmen.
 
 === Problem Statement
@@ -32,10 +34,10 @@ Siehe <<#glossary, Glossar>>.
 
 [cols="1,3"]
 |===
-| Das Problem | [beschreiben Sie das Problem]
-| betrifft | [die Stakeholder, die vom Problem betroffen sind]
-| die Auswirkung davon ist | [welche Auswirkungen hat das Problem?]
-| eine erfolgreiche Lösung wäre | Führen Sie einige wesentliche Vorteile einer erfolgreichen Lösung auf]
+| Das Problem | Keine Webpräsenz/ Datenbank
+| betrifft | den Barbesitzer
+| die Auswirkung davon ist | kleine Kundschaft
+| eine erfolgreiche Lösung wäre | Online-Markt, wo Kunden sich Cocktails liefern lassen können
 |===
 
 ////

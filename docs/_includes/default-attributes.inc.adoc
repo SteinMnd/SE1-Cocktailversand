@@ -1,6 +1,6 @@
 // Meta
-:project-name: <Projektthema (T00)>
-:project-system-name: <Projektname-System>
+:project-name: SE1-Cocktailversandt
+:project-system-name: Versandtsoftware
 // Settings:
 :toc:
 :toc-title: Inhaltsverzeichnis
